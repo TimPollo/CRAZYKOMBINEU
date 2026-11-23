@@ -1,0 +1,5 @@
+Erstelle für meine App „Verrückte Kombination“ eine herunterladbare Datei namens kombinationen-100.txt.
+
+Erzeuge mit einem kryptografisch sicheren Zufallsgenerator (z. B. secrets.choice in Python) genau 100 unterschiedliche Kombinationen. Jede hat genau 24 Zeichen aus A–Z, a–z und 0–9 und enthält mindestens einen Großbuchstaben, einen Kleinbuchstaben und eine Ziffer. Ziehe jedes Zeichen zufällig. Verwirf doppelte oder unpassende Ergebnisse und erzeuge dafür neue. Wenn ich frühere Dateien beilege, schließe alle darin enthaltenen Kombinationen aus.
+
+Speichere die Datei als einfachen Text in UTF-8, eine Kombination pro Zeile. Verzichte auf Überschrift, Nummerierung, Anführungszeichen, Leerzeichen, Markdown und Erklärungen in der Datei. Prüfe vor der Ausgabe Anzahl, Länge, Zeichenvorrat und Eindeutigkeit. Gib mir die fertige TXT-Datei zum Herunterladen.
